@@ -1,8 +1,4 @@
-<h2 align="center">Hey there!  I am Anjali Kore</h2>
-
-###
-
-<h3 align="center">Student interested in Artificial Intelligence. from  Maharashtra, India</h4>
+<h2 align="center">Hey there! </h2>
 
 ###
 
